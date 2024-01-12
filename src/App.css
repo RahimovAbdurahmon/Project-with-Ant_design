@@ -1,0 +1,7 @@
+.section{
+    background-image: url("src/assets/Background.png");
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
